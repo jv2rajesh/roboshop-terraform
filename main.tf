@@ -24,6 +24,5 @@ output "test" {
     rm -rf .terraform   (Need to remove .terraform directory before changing from one environment to another environment)
     terraform init -backend-config=env-prod/state.tfvars
     terraform apply -auto-approve -var-file=env-prod/main.tfvars
-
 */
 /* started in session-29 */
