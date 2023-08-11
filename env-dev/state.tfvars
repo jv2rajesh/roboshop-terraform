@@ -4,8 +4,8 @@ region = "us-east-1"
 
 
 
-/* terraform.tfstate - is a object name we chose
+/* terraform.tfstate  is a object name we chose
 
-   Amazon S3 > Buckets > jv2rajesh > dev/
+   Reference: Goto Amazon S3 > Buckets > jv2rajesh > dev/
 
  */
